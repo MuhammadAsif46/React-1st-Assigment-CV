@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+}
+
+.container{
+    border: 1px solid black;
+    display: flex;
+    width: 65%;
+    margin: 0 auto;
+    
+}
+
+.left-side{
+    width: 32%;
+    background-color: #003049;
+    color: #fff;
+}
+
+/* Image */
+
+.image-work{
+    width: 80%;
+    height: 220px;
+    margin: 20px auto;
+}
+
+.img{
+    width: 95%;
+    height: 95%;
+    border-radius: 50%;
+    margin: 0 2%;
+}
+
+/* .nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image: url("amazon_logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+} */
+
+/* Name */
+
+.cv-name{
+    text-align: center;
+    font-weight: 700 ;
+}
+
+div > span{
+    color: #ccc;
+}
+
+/* Other Information */
+
+.cv-phone{
+    margin-top: 30px; 
+    display: flex;
+    justify-content: center;
+}
+
+.cv-email, .cv-location{
+
+    margin-top: 10px; 
+    display: flex;
+    justify-content: center;
+}
+
+.cv-icon{
+    width: 15%;
+}
+
+.mobile{
+    font-weight: 700;
+    max-width: 160px; 
+    width: 85%;
+}
+
+.email, .location{
+    font-weight: 700;
+    max-width: 160px;
+    width: 85%;
+}
+
+/* Languages */
+
+.cv-language, .cv-hobbies{
+    margin-top: 30px;
+}
+
+.lang-para, .hobi-para{
+    font-weight: 700;
+    margin: 10px 0 0 15%;
+}
+.line{
+    border: 1px solid #fff;
+    width: 70%;
+    margin: 5px 0 0 15%;
+}
+
+.languages, .hobbies{
+    margin: 5px 0 0 25%;
+}
+.languages,.hobbies > ul > li {
+    line-height: 25px;
+}
