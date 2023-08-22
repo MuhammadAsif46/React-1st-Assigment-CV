@@ -1,4 +1,4 @@
-  import logo from "./logo.svg";
+  import manImage from "./man-picture.jpg";
 import "./App.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <div class="container">
         <div class="left-side">
           <div class="image-work">
-            <img class="img" src="man-picture.jpg" alt="man-picture" />
+            <img class="img" src={manImage} alt="man-picture" />
           </div>
           <div>
             <div class="cv-name">
