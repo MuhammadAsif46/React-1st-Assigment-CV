@@ -106,3 +106,68 @@ div > span{
 .languages,.hobbies > ul > li {
     line-height: 25px;
 }
+
+/* Right Side Styling */
+
+.right-side{
+    width: 68%;
+    background-color: #edede9;
+}
+
+/* Summary */
+
+.cv-summary{
+    width: 95%;
+    margin: 10px auto;
+}
+
+.line-black{
+    border: 1px solid #000;
+    width: 93%;
+    margin: 5px 0 0 0;  
+}
+
+.summary{
+    margin: 10px 0 0 0 ;
+    line-height: 25px;
+    padding: 5px;
+}
+
+/* Experience & Education */
+
+.cv-experience, .cv-education{
+    width: 95%;
+    margin: 30px auto;
+}
+
+.experience{
+    margin: 20px 0 0 0 ;
+    padding: 5px;
+}
+
+.experience-list, .education-list{
+    margin-left: 30px;
+    padding: 5px;
+    line-height: 25px;
+}
+
+
+/* Skill Highlights & Certification */
+
+.cv-skill-highlights, .cv-certification{
+    width: 95%;
+    margin: 40px auto;
+}
+
+.certificates-list, .skills-list{
+    margin: 10px 0 0 30px;
+    padding: 5px;
+    line-height: 40px;
+}
+.skills-list {
+    display: flex;
+}
+
+.cv-skill{
+    width: 50%
+}
