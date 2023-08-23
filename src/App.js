@@ -1,4 +1,4 @@
-  import manImage from "./man-picture.jpg";
+import manImage from "./man-picture.jpg";
 import "./App.css";
 
 function App() {
@@ -54,7 +54,6 @@ function App() {
               </ul>
             </div>
           </div>
-
           <div class="cv-hobbies">
             <div class="hobi-para">
               <p>HOBBIES</p>
@@ -74,22 +73,23 @@ function App() {
         </div>
 
         <div class="right-side">
-        <div class="cv-summary">
-          <div>
-            <h3>SUMMARY</h3>
-          </div>
-          <div class="line-black"></div>
-          <div class="summary">
-            <p>
-              Highly motivated Junior Web Developer with experience in building and maintaining web applications.
-              Proficient in HTML, CSS, Javscript and Firebase with expertice in Javascript library like React and it`s framework like Next.js.Seeking to join a dynamic team where I can utilize my skills to help drive the success of the orginaization.
-            </p>
-          </div>
-        </div>
-
-        <div class="cv-experience">
+          <div class="cv-summary">
             <div>
-                <h3>EXPERIENCE</h3>
+              <h3>SUMMARY</h3>
+            </div>
+            
+            <div class="line-black"></div>
+            <div class="summary">
+              <p>
+                Highly motivated Junior Web Developer with experience in building and maintaining web applications.
+                Proficient in HTML, CSS, Javscript and Firebase with expertice in Javascript library like React and it`s framework like Next.js.Seeking to join a dynamic team where I can utilize my skills to help drive the success of the orginaization.
+              </p>
+            </div>
+          </div>
+
+          <div class="cv-experience">
+            <div>
+              <h3>EXPERIENCE</h3>
             </div>
             <div class="line-black">
 
@@ -106,23 +106,24 @@ function App() {
                     </ul>
                 </div>
             </div>
-        </div>
+          </div>
 
-        <div class="cv-education">
+          <div class="cv-education">
             <div>
-                <h3>EDUCATION</h3>
+              <h3>EDUCATION</h3>
             </div>
+            
             <div class="line-black">
 
             </div>
             <div class="education-list">
-                <ul>
-                    <li><strong>Bachelor of Commerce: Part 02 Continue...</strong> | <span>2023 Karachi-University,Karachi</span> </li>
-                </ul>
+              <ul>
+                <li><strong>Bachelor of Commerce: Part 02 Continue...</strong> | <span>2023 Karachi-University,Karachi</span> </li>
+              </ul>
             </div>
-        </div>
+          </div>
 
-        <div class="cv-skill-highlights">
+          <div class="cv-skill-highlights">
             <div>
                 <h3>SKILL HIGHLIGHTS</h3>
             </div>
@@ -147,24 +148,23 @@ function App() {
                 </ul>
               </div>
             </div>
-        </div>
+          </div>
 
-        <div class="cv-certification">
+          <div class="cv-certification">
             <div>
-                <h3>CERTIFICATIONS</h3>
+              <h3>CERTIFICATIONS</h3>
             </div>
             <div class="line-black">
 
             </div>
             <div class="certificates-list">
-                <ul>
-                    <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                    <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                </ul>
+              <ul>
+                <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
+                <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
+              </ul>
             </div>
+          </div>
         </div>
-      </div>
-
       </div>
     </div>
   );
