@@ -1,9 +1,9 @@
-import manImage from "./man-picture.jpg";
+import manImage from "./my-image.jpg";
 import "./App.css";
 
 function App() {
   return (
-    <div>
+    
       <div class="container">
         <div class="left-side">
           <div class="image-work">
@@ -118,7 +118,8 @@ function App() {
             </div>
             <div class="education-list">
               <ul>
-                <li><strong>Bachelor of Commerce: Part 02 Continue...</strong> | <span>2023 Karachi-University,Karachi</span> </li>
+                <li><strong>Bachelor of Commerce: Part 02 Continue...</strong> | <span>2023 Karachi-University,
+                Karachi</span> </li>
               </ul>
             </div>
           </div>
@@ -166,7 +167,7 @@ function App() {
           </div>
         </div>
       </div>
-    </div>
+    
   );
 }
 
