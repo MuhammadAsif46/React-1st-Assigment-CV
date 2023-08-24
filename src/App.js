@@ -18,16 +18,18 @@ function App() {
             <div class="cv-icon">
               <i class="fa-solid fa-phone"></i>
             </div>
-            <div class="mobile">0315 0278120</div>
+            <div class="mobile"><a href="tel:+923150278120">0315 0278120</a></div>
           </div>
           <div class="cv-email">
             <div class="cv-icon">
               <i class="fa-solid fa-envelope"></i>
             </div>
             <div class="email">
+              <a href="https://mailto:abc@gmail.com" target="_blank">
               asiffareed32b@gmail
               <br />
               .com
+              </a>
             </div>
           </div>
           <div class="cv-location">
@@ -35,9 +37,11 @@ function App() {
               <i class="fa-solid fa-location-dot"></i>
             </div>
             <div class="location">
+              <a href="https://www.google.com/maps" target="_blank">
               33 block nazimabad,
               <br />
               karachi
+              </a>
             </div>
           </div>
           <div class="cv-language">

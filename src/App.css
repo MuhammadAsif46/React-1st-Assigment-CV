@@ -78,12 +78,18 @@ div > span{
     display: flex;
     justify-content: center;
 }
+.cv-phone:hover, .cv-email:hover, .cv-location:hover{
+    color: #ccc;  
+}
 
 .cv-email, .cv-location{
-
     margin-top: 10px; 
     display: flex;
     justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: inherit
 }
 
 .cv-icon{
