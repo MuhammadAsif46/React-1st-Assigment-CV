@@ -9,10 +9,8 @@ function App() {
           <div class="image-work">
             <img class="img" src={manImage} alt="man-picture" />
           </div>
-          <div>
-            <div class="cv-name">
+          <div class="cv-name">
               MUHAMMAD <span> ASIF </span>
-            </div>
           </div>
           <div class="cv-phone">
             <div class="cv-icon">
@@ -99,14 +97,13 @@ function App() {
 
             </div>
             <div class="experience">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <p>Lorem ipsum dolor sit amet,</p>
+                <p><strong>Front-End-Developer |</strong> Jan 2023 To Aug 2023</p>
+                <p className="para"><strong>Mern-Stack-Developer,</strong> SMIT</p>
                 <div class="experience-list">
                     <ul>
-                        <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                        <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                        <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                        <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
+                        <li>Website and software application designing, building, or maintaining.</li>
+                        <li>Creation of websites layout, navigation menus and user interface</li>
+                        <li>Integration of multimedia content and data from verious backend service and databases</li>
                     </ul>
                 </div>
             </div>
@@ -148,8 +145,8 @@ function App() {
                 <ul>
                   <li>React </li>
                   <li>Next.js </li>
-                  <li>lorem ipsum </li>
-                  <li>lorem ipsum </li>
+                  <li>lorem </li>
+                  <li>Ipsum </li>
                 </ul>
               </div>
             </div>
@@ -164,8 +161,7 @@ function App() {
             </div>
             <div class="certificates-list">
               <ul>
-                <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
-                <li>lorem ipsum is simple dummy text.ipsum simple dummy text</li>
+                <li>There are still three months left to get the Web Development Certification.</li>
               </ul>
             </div>
           </div>
