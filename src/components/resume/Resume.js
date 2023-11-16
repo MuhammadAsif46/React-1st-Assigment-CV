@@ -185,6 +185,19 @@ function Resume() {
               </ul>
             </div>
           </div>
+          <div class="cv-project">
+            <div>
+              <h3>PROJECT</h3>
+            </div>
+            <div class="line-black">
+
+            </div>
+            <div class="projects-list">
+              <ul>
+                <li><a href="https://github.com/MuhammadAsif46" target="_blank"> link attached</a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     

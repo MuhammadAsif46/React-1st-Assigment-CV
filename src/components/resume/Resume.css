@@ -90,7 +90,6 @@ a{
     max-width: 10em;
 }
 .email, .location, .linkedin, .github{
-    /* border: 1px solid black; */
     margin-top: 0.5rem;
     font-size: 0.9rem
 }
@@ -171,20 +170,17 @@ a{
 
 /* Skill Highlights & Certification */
 
-.cv-skill-highlights, .cv-certification{
+.cv-skill-highlights, .cv-certification, .cv-project{
     max-width: 95%;
     margin: 40px 10px;
 }
 
-.certificates-list, .skills-list{
+.certificates-list, .skills-list, .projects-list{
     margin: 10px 0 0 30px;
     padding: 5px;
     line-height: 40px;
 }
-/* h4{
-    font-size: 15px;
-    font-weight: 700;
-} */
+
 .skills-list {
     display: flex;
     justify-content: space-evenly;
