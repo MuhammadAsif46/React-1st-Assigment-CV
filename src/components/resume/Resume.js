@@ -155,8 +155,8 @@ function Resume() {
             <div class="skills-list">
               <div class="cv-skill">
                 <ul>
-                  <li>UI/UX design </li>
-                  <li>HTML/CSS </li>
+                  <li>HTML </li>
+                  <li>CSS </li>
                   <li>Javascript </li>
                   <li>Firebase </li>
                 </ul>
@@ -194,7 +194,7 @@ function Resume() {
             </div>
             <div class="projects-list">
               <ul>
-                <li><a href="https://github.com/MuhammadAsif46" target="_blank"> link attached</a></li>
+                <li><a href="https://social-media-appp.cyclic.app" target="_blank"> Social Media App</a></li>
               </ul>
             </div>
           </div>
